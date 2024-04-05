@@ -2,7 +2,7 @@
 
 Mapty is a web application that allows users to track their workouts, whether it's running or cycling, and visualize them on a map. With Mapty, users can easily log their workout details, such as distance, duration, and route, and view their progress over time.
 
-This website was developed during [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/share/101Wfe3@WNfGGz11Oi9aTz8k04tFZTOeWvzLQXZsSOnuHZXk7n3xF_sBJQTf5GT05dyygfpFow==/).
+This web application was developed during [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/share/101Wfe3@WNfGGz11Oi9aTz8k04tFZTOeWvzLQXZsSOnuHZXk7n3xF_sBJQTf5GT05dyygfpFow==/).
 
 
 ### Features
